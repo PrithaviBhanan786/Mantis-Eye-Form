@@ -14,7 +14,7 @@ How to run:->
 1) Open cmd panel.
 2) "npm install".
 3) Then "npm i -g concurrently".
-4) "npm run dev".
+4) "npm start".
 
 NOW THE APP IS READY TO USE.
 
